@@ -6,12 +6,12 @@
 /*   By: atardif <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/08 11:48:25 by atardif           #+#    #+#             */
-/*   Updated: 2022/12/09 13:39:32 by atardif          ###   ########.fr       */
+/*   Updated: 2022/12/15 14:26:54 by atardif          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef PRINTF_H
-# define PRINTF_H
+#ifndef FT_PRINTF_H
+# define FT_PRINTF_H
 
 # include <stdarg.h>
 # include <stddef.h>
